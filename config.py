@@ -1,6 +1,6 @@
-customhost = "employee.czvrowtwhg9s.us-east-1.rds.amazonaws.com" /your endppoint
-customuser = "aws_user"
-custompass = "CAPC3009"
-customdb = "employee"
-custombucket = "jaedon-employee"
+customhost = "cc-asm.czvrowtwhg9s.us-east-1.rds.amazonaws.com"
+customuser = "admin"
+custompass = "12345678"
+customdb = "cc-asm"
+custombucket = "jeremy-david-jaedon-bucket"
 customregion = "us-east-1"
